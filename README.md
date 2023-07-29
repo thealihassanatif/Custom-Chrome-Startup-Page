@@ -34,7 +34,7 @@ Step 8:
 Restart Chrome and Enjoy.
 
 
-Now everytime You open chrome a startup page will appear.
+Now everytime You open chrome the custom startup page will appear.
 
 
 
